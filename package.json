@@ -1,0 +1,7 @@
+{
+  "name": "viralcut-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VIRALCUT AI - YouTube to viral short clips (Gemini + in-browser rendering)",
+  "engines": { "node": ">=18" }
+}
